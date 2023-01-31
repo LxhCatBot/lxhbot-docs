@@ -31,3 +31,13 @@ plugins:
       type: timeago
 extra_css:
   - stylesheets/extra.css
+nav:
+  - 首页: index.md
+  - 观前提示: notice.md
+  - 快速上手: start.md
+  - 命令列表: commands.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
