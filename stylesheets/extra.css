@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "XIAOHBZLL";
+    src: url('../fonts/FZSJ-XIAOHBZLL.TTF')  format('truetype'); 
+  }
+
+:root {
+   --md-text-font: "XIAOHBZLL"; 
+}
+  
